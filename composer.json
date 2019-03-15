@@ -2,7 +2,7 @@
     "name": "white.george/first_vendor",
     "description": "try make a package",
     "type": "library",
-    "license": "0.1bate",
+    "license": "MIT",
     "authors": [
         {
             "name": "White George",
