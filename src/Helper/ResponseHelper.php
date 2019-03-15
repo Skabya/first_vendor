@@ -1,5 +1,5 @@
 <?php
-namespace Mxj\Respones\Helpers;
+namespace Mxj\Respones\Helper;
 
 
 class ResponseHelper
