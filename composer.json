@@ -16,7 +16,7 @@
     "autoload": {
       "psr-4": {
       	"Mxj\\Response\\Helper\\": "src/Helper",
-      	"Mxj\\Response\\Provider\\": "src/Povider"
+      	"Mxj\\Response\\Provider\\": "src/Provider"
       }
     }
 }
