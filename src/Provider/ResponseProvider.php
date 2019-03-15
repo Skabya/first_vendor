@@ -1,6 +1,6 @@
 <?php
 
-namespace Mxj\Response\Providers;
+namespace Mxj\Response\Provider;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Response;
