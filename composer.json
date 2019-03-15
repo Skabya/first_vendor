@@ -1,0 +1,23 @@
+{
+    "name": "white.george/first_vendor",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "White George",
+            "email": "Skabya@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=7.0"
+    },
+    "autoload": {
+      "psr-4": {
+      	"Mxj\\Response\\Helper\\": "src/Helper",
+      	"Mxj\\Response\\Provider\\": "src/Povider"
+      }
+}
+
+
