@@ -6,7 +6,7 @@ use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Response;
 use Mxj\Response\Helper\ResponseHelper;
 
-class ResponseServiceProvider extends ServiceProvider
+class ResponseProvider extends ServiceProvider
 {
     /**
      * Register the application's response macros.
